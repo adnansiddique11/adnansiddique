@@ -1,0 +1,14 @@
+.work_image{
+    height: inherit;
+}
+.center{
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+}
+.load_more{
+    
+    margin-right: 49%;
+}
